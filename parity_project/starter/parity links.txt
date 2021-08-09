@@ -1,0 +1,3 @@
+Github code link: https://github.com/georgiedignan/Python-Projects/blob/main/parity_project/starter/parity.py
+
+Sceenshot link: ![image](https://user-images.githubusercontent.com/86653494/128657010-d7c8c628-3e0a-4ca9-b54f-29d4ad058001.png)
